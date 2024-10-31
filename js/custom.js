@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){ jQuery('#engramium_poppable_exit_popup_box_title_color, #engramium_poppable_exit_popup_box_bg_color').wpColorPicker();});
